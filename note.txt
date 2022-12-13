@@ -1,0 +1,6 @@
+name: pial
+pial@gmail.com
+pass : pial
+
+name : tim
+pass : pythondjango
